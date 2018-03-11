@@ -10,8 +10,8 @@ My works:
       Сайт - [Device](https://estaticfear2.github.io/139086-device-1/)
       
 3. Седона - адаптив
-      Репозиторий - [Sedona](https://github.com/estaticfear2/139086-sedona-1/build/).
-      Сайт - [Sedona](https://estaticfear2.github.io/139086-sedona-1/)
+      Репозиторий - [Sedona](https://github.com/estaticfear2/139086-sedona-1/).
+      Сайт - [Sedona](https://estaticfear2.github.io/139086-sedona-1/build/)
       
 4. Кекстаграм - js
       Репозиторий - [Кекстаграм](https://github.com/estaticfear2/139086-kekstagram)
