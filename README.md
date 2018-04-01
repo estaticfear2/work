@@ -24,4 +24,8 @@ My works:
 6. Klymist
       Репозиторий - [Klymist](https://github.com/estaticfear2/klymist)
       Сайт - [Klymist](https://estaticfear2.github.io/klymist/build/)
+      
+7. Musician
+      Репозиторий - [Musician](https://github.com/estaticfear2/musician)
+      Сайт - [Musician](https://estaticfear2.github.io/musician/build/)
 
