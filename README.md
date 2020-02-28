@@ -15,7 +15,7 @@
       Репозиторий - [Кекстаграм](https://github.com/estaticfear2/139086-kekstagram).  
       Сайт - [Кекстаграм](https://estaticfear2.github.io/139086-kekstagram/)
       
-5. Мишка - адаптив
+5. Мишка - адаптив  
       Репозиторий - [Мишка](https://github.com/estaticfear2/139086-mishka).  
       Сайт - [Мишка](https://estaticfear2.github.io/139086-mishka/build/)
       
