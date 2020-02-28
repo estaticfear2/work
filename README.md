@@ -1,6 +1,4 @@
 # work
-My works:
-
 1. Седона
       Репозиторий - [Sedona](https://github.com/estaticfear2/139086-sedona).
       Сайт - [Sedona](https://estaticfear2.github.io/139086-sedona/)
@@ -21,18 +19,6 @@ My works:
       Репозиторий - [Мишка](https://github.com/estaticfear2/139086-mishka)
       Сайт - [Мишка](https://estaticfear2.github.io/139086-mishka/build/)
       
-6. Klymist
-      Репозиторий - [Klymist](https://github.com/estaticfear2/klymist)
-      Сайт - [Klymist](https://estaticfear2.github.io/klymist/build/)
-      
-7. Musician
-      Репозиторий - [Musician](https://github.com/estaticfear2/musician)
-      Сайт - [Musician](https://estaticfear2.github.io/musician/build/)
-      
-8. Wooder
-      Репозиторий - [Wooder](https://github.com/estaticfear2/wooder)
-      Сайт - [Wooder](https://estaticfear2.github.io/wooder/build/)
-
-9. Big-trip
-      Репозиторий - [Wooder](https://github.com/estaticfear2/139086-big-trip-10)
-      Сайт - [Wooder](https://estaticfear2.github.io/139086-big-trip-10/public/)
+6. Big-trip
+      Репозиторий - [Big-trip](https://github.com/estaticfear2/139086-big-trip-10)
+      Сайт - [Big-trip](https://estaticfear2.github.io/139086-big-trip-10/public/)
