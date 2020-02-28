@@ -19,6 +19,6 @@
       Репозиторий - [Мишка](https://github.com/estaticfear2/139086-mishka).  
       Сайт - [Мишка](https://estaticfear2.github.io/139086-mishka/build/)
       
-6. Big-trip
+6. Big-trip  
       Репозиторий - [Big-trip](https://github.com/estaticfear2/139086-big-trip-10).  
       Сайт - [Big-trip](https://estaticfear2.github.io/139086-big-trip-10/public/)
